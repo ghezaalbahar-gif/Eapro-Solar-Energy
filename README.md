@@ -9,7 +9,7 @@ A modern and responsive **Solar Energy website** developed as a **team project**
 This project was developed collaboratively by:
 
 * **Deba Mansoori**
-* ***Halima Mehrzad**
+* **Halima Mehrzad**
 * **Sahar Hamad**
 * **Ghezaal Bahar Faqiri**
   
